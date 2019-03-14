@@ -7,3 +7,8 @@ Coleção de documentos e links de boas práticas, arquitetura e testes para pla
   
 - **Code Style:**
   - https://medium.com/@takusemba/make-your-code-clean-with-ktlint-bf651c5924e8
+
+- **Android:**
+  - https://proandroiddev.com/mvvm-with-kotlin-android-architecture-components-dagger-2-retrofit-and-rxandroid-1a4ebb38c699
+  - https://medium.com/corebuild-software/simple-android-mvvm-using-rx-and-kotlin-9769a91b03ef
+  
