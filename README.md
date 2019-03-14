@@ -5,5 +5,5 @@ Coleção de documentos e links de boas práticas, arquitetura e testes para pla
   - https://nvie.com/posts/a-successful-git-branching-model/
   - https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
   
-- **Code Style
+- **Code Style:**
   - https://medium.com/@takusemba/make-your-code-clean-with-ktlint-bf651c5924e8
