@@ -8,7 +8,6 @@ Coleção de documentos e links de boas práticas, arquitetura e testes para pla
   - http://viniciusban.blogspot.com/2011/12/use-sempre-git-merge-no-ff.html
   
 - **Code Style:**
-  - https://www.lucascaton.com.br/2017/10/16/como-escrever-mensagens-de-commits-no-git/
   - https://medium.com/@takusemba/make-your-code-clean-with-ktlint-bf651c5924e8
 
 - **Android:**
