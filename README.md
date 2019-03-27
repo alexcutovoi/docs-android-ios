@@ -7,6 +7,7 @@ Coleção de documentos e links de boas práticas, arquitetura e testes para pla
   - https://nvie.com/posts/a-successful-git-branching-model/
   - https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
   - http://viniciusban.blogspot.com/2011/12/use-sempre-git-merge-no-ff.html
+  - https://medium.com/trainingcenter/qual-o-real-valor-do-code-review-para-uma-equipe-de-desenvolvimento-f43f894c0a04
   
 - **Code Style:**
   - https://medium.com/@takusemba/make-your-code-clean-with-ktlint-bf651c5924e8
