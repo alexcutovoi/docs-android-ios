@@ -25,4 +25,9 @@ Coleção de documentos e links de boas práticas, arquitetura e testes para pla
   - https://code.tutsplus.com/tutorials/kotlin-reactive-programming-with-rxjava-and-rxkotlin--cms-31577
   
 - **Multiplataforma:**
+  - https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a
   - https://kotlinlang.org/docs/tutorials/native/mpp-ios-android.html
+  - https://medium.com/mop-developers/mobile-app-development-react-native-vs-native-ios-android-49c5c168045b
+  - https://blog.kotlin-academy.com/multiplatform-native-development-in-kotlin-now-with-ios-a8546f436eec
+
+  
