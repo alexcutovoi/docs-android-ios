@@ -24,3 +24,4 @@ Coleção de documentos e links de boas práticas, arquitetura e testes para pla
 - **Rx:**
   - https://code.tutsplus.com/tutorials/kotlin-reactive-programming-with-rxjava-and-rxkotlin--cms-31577
   
+- **Multiplataforma:**
