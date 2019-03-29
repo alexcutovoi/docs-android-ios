@@ -25,3 +25,4 @@ Coleção de documentos e links de boas práticas, arquitetura e testes para pla
   - https://code.tutsplus.com/tutorials/kotlin-reactive-programming-with-rxjava-and-rxkotlin--cms-31577
   
 - **Multiplataforma:**
+  - https://kotlinlang.org/docs/tutorials/native/mpp-ios-android.html
