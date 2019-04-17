@@ -30,4 +30,13 @@ Coleção de documentos e links de boas práticas, arquitetura e testes para pla
   - https://medium.com/mop-developers/mobile-app-development-react-native-vs-native-ios-android-49c5c168045b
   - https://blog.kotlin-academy.com/multiplatform-native-development-in-kotlin-now-with-ios-a8546f436eec
 
-  
+
+- **iOS**
+  - ***VIPER:***
+    - https://medium.com/@smalam119/viper-design-pattern-for-ios-application-development-7a9703902af6
+    - https://github.com/smalam119/live-news-viper
+    - https://medium.com/swift-india/viper-architecture-example-in-ios-in-swift-4-6f656a441f7c
+    - https://medium.com/cr8resume/viper-architecture-for-ios-project-with-simple-demo-example-7a07321dbd29
+
+  - ***Clean Swift:***
+    - https://clean-swift.com/
